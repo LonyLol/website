@@ -1,0 +1,31 @@
+﻿body {
+    background-color:lightcoral
+}
+h2 {
+    font-family:Arial;
+    text-align:center;
+    direction:rtl;
+}
+h3 {
+    text-align: right;
+    font-family: Arial;
+    direction:rtl;
+}
+p{
+    text-align:right;
+    font-family:Arial
+}
+ol{
+    text-align:right
+}
+img {
+    float: right;
+    width: fit-content;
+    height: 312px;
+    margin-right:auto;
+    margin-left:auto;
+}
+div {
+    height: 312px;
+    align-items:center;
+}
